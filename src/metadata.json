@@ -1,0 +1,80 @@
+{
+  "draw_mode": false,
+  "show_annotations": true,
+  "mouse_position": {
+    "raw": {
+      "x": 100,
+      "y": 100
+    }
+  },
+  "canvas_transform": {
+    "scale": 1
+  },
+  "box_list": [
+    {
+      "selected": true,
+      "soft_delete": false,
+      "special_condition": true,
+      "x_min": 100,
+      "y_min": 100,
+      "x_max": 300,
+      "y_max": 200,
+      "label": {
+        "name": "start",
+        "is_visible": true,
+        "colour": {
+          "rgba": {
+            "r": 0,
+            "g": 100,
+            "b": 0,
+            "a": 100
+          }
+        }
+      }
+    },
+    {
+      "selected": false,
+      "soft_delete": false,
+      "special_condition": false,
+      "x_min": 300,
+      "y_min": 300,
+      "x_max": 500,
+      "y_max": 400,
+      "label": {
+        "name": "test",
+        "is_visible": true,
+        "colour": {
+          "rgba": {
+            "r": 0,
+            "g": 150,
+            "b": 150,
+            "a": 30
+          },
+          "hex": "#008888FF"
+        }
+      }
+    },
+    {
+      "selected": false,
+      "soft_delete": false,
+      "special_condition": false,
+      "x_min": 500,
+      "y_min": 150,
+      "x_max": 650,
+      "y_max": 250,
+      "label": {
+        "name": "yes",
+        "is_visible": true,
+        "colour": {
+          "rgba": {
+            "r": 0,
+            "g": 200,
+            "b": 0,
+            "a": 0.1
+          },
+          "hex": "#00dd00FF"
+        }
+      }
+    }
+  ]
+}
